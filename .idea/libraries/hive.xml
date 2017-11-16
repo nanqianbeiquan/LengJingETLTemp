@@ -1,0 +1,35 @@
+<component name="libraryTable">
+  <library name="hive">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/hive/high-scale-lib-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-hcatalog-server-extensions-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-shims-0.23-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-exec-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-shims-scheduler-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-contrib-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-jdbc-1.1.0-cdh5.6.0-standalone.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-webhcat-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-hwi-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-hbase-handler-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-metastore-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-hcatalog-pig-adapter-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-beeline-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-service-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-testutils-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-shims-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-common-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-accumulo-handler-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-jdbc-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-serde-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-ant-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-cli-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-webhcat-java-client-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-hcatalog-core-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-shims-common-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hive-hcatalog-streaming-1.1.0-cdh5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hive/hadoop-common-2.6.0-cdh5.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

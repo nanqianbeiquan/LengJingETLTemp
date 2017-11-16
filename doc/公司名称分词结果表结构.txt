@@ -1,0 +1,18 @@
+﻿create 'WordToCompany',{NAME=>'Company',COMPRESSION=>'GZ',VERSIONS=>1}
+create 'CompanyToWord',{NAME=>'Word',COMPRESSION=>'GZ',VERSIONS=>1},{NAME=>'Segmentation',COMPRESSION=>'GZ',VERSIONS=>1}
+
+
+WordToCompany
+	key:词
+	CF:'Company'
+		qualifier:公司
+		val:词序
+
+CompanyToWord
+	key:公司
+	CF:'Word'
+		qualifier:词
+		val:词序
+	CF:'Segmentation'
+		qualifier:'result'
+		val:分词结果，“|”分隔

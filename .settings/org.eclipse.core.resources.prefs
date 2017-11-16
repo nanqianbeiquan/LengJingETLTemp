@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//conf/dict/crf.model=UTF-8
+encoding//conf/dict/user.dict=UTF-8
+encoding//data/\u5468\u6210\u5EFA\u6D4B\u8BD5=UTF-8
+encoding//src/notice/CourtNoticeType1Job.java=UTF-8
+encoding//src/notice/CourtNoticeType2Job.java=UTF-8
+encoding//src/tools/ExecShell.java=UTF-8
+encoding//src/tools/Parsemoney.java=UTF-8
+encoding//src/tools/ShareholderParser.java=UTF-8
+encoding//src/tools/WriteJobStatus.java=UTF-8
+encoding/<project>=UTF-8

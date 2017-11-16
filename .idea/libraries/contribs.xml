@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="contribs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jersey-archive-1.9/contribs/jersey-multipart-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-archive-1.9/contribs/jersey-simple-server-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-archive-1.9/contribs/jersey-apache-client-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-archive-1.9/contribs/oauth-server-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-archive-1.9/contribs/oauth-client-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-archive-1.9/contribs/jersey-guice-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-archive-1.9/contribs/jersey-atom-abdera-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-archive-1.9/contribs/oauth-signature-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-archive-1.9/contribs/jersey-spring-1.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

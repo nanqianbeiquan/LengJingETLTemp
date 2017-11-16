@@ -1,0 +1,13 @@
+﻿{NAME => 'Administrative_Penalty', DATA_BLOCK_ENCODING => 'NONE', BLOOMFILTER => 'ROW', REPLICATION_SCOPE => '0', COMPRESSION => 'GZ', VERSIONS => '1', TTL => 'FOREVER                                 
+{NAME => 'Branches', DATA_BLOCK_ENCODING => 'NONE', BLOOMFILTER => 'ROW', REPLICATION_SCOPE => '0', COMPRESSION => 'GZ', VERSIONS => '1', TTL => 'FOREVER', MIN_VERSION                       
+{NAME => 'Business_Abnormal', DATA_BLOCK_ENCODING => 'NONE', BLOOMFILTER => 'ROW', REPLICATION_SCOPE => '0', COMPRESSION => 'GZ', VERSIONS => '1', TTL => 'FOREVER', MI          
+{NAME => 'Changed_Announcement', DATA_BLOCK_ENCODING => 'NONE', BLOOMFILTER => 'ROW', REPLICATION_SCOPE => '0', COMPRESSION => 'GZ', VERSIONS => '1', TTL => 'FOREVER',                        
+{NAME => 'Chattel_Mortgage', DATA_BLOCK_ENCODING => 'NONE', BLOOMFILTER => 'ROW', REPLICATION_SCOPE => '0', COMPRESSION => 'GZ', VERSIONS => '1', TTL => 'FOREVER', MIN                  
+{NAME => 'Equity_Pledge', DATA_BLOCK_ENCODING => 'NONE', BLOOMFILTER => 'ROW', REPLICATION_SCOPE => '0', COMPRESSION => 'GZ', VERSIONS => '1', TTL => 'FOREVER', MIN_VE            
+{NAME => 'Family_Info', DATA_BLOCK_ENCODING => 'NONE', BLOOMFILTER => 'ROW', REPLICATION_SCOPE => '0', COMPRESSION => 'GZ', VERSIONS => '1', TTL => 'FOREVER', MIN_VERS                           
+{NAME => 'KeyPerson_Info', DATA_BLOCK_ENCODING => 'NONE', BLOOMFILTER => 'ROW', REPLICATION_SCOPE => '0', COMPRESSION => 'GZ', VERSIONS => '1', TTL => 'FOREVER', MIN_V                          
+{NAME => 'Registered_Info', DATA_BLOCK_ENCODING => 'NONE', BLOOMFILTER => 'ROW', REPLICATION_SCOPE => '0', COMPRESSION => 'GZ', VERSIONS => '1', TTL => 'FOREVER', MIN_                                            
+{NAME => 'Serious_Violations', DATA_BLOCK_ENCODING => 'NONE', BLOOMFILTER => 'ROW', REPLICATION_SCOPE => '0', COMPRESSION => 'GZ', VERSIONS => '1', TTL => 'FOREVER', M                                          
+{NAME => 'Shareholder_Info', DATA_BLOCK_ENCODING => 'NONE', BLOOMFILTER => 'ROW', REPLICATION_SCOPE => '0', COMPRESSION => 'GZ', VERSIONS => '1', TTL => 'FOREVER', MIN                                          
+{NAME => 'Spot_Check', DATA_BLOCK_ENCODING => 'NONE', BLOOMFILTER => 'ROW', REPLICATION_SCOPE => '0', COMPRESSION => 'GZ', VERSIONS => '1', TTL => 'FOREVER', MIN_VERSI                                                      
+{NAME => 'liquidation_Information', DATA_BLOCK_ENCODING => 'NONE', BLOOMFILTER => 'ROW', REPLICATION_SCOPE => '0', COMPRESSION => 'GZ', VERSIONS => '1', TTL => 'FOREVE

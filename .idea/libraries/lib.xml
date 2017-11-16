@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jersey-archive-1.9/lib/jersey-core-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-archive-1.9/lib/jersey-server-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-archive-1.9/lib/jersey-client-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-archive-1.9/lib/asm-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-archive-1.9/lib/jsr311-api-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-archive-1.9/lib/jackson-core-asl-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-archive-1.9/lib/jackson-mapper-asl-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-archive-1.9/lib/jackson-jaxrs-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-archive-1.9/lib/jackson-xc-1.8.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-archive-1.9/lib/jersey-json-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-archive-1.9/lib/jettison-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

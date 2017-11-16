@@ -1,0 +1,203 @@
+﻿<?xml version="1.0"?>
+
+<configuration>
+	
+	  	
+  <table>
+  	<tableId>13</tableId>
+  	<tableName>t_pachong_administrative_penalty</tableName>
+  	<dstTableName>LengJingGS</dstTableName>
+  	<database>temp</database>
+  	<delimiter>default</delimiter>
+  	<cols>enterprisename,registrationno,penalty_no,penalty_code,penalty_illegaltype,penalty_decisioncontent,penalty_decisioninsititution,penalty_decisiondate,penalty_details,lastupdatetime,penalty_announceddate,penalty_publicationdate,equitypledge_announcedate,id,dt</cols>
+  	<CF>Administrative_Penalty</CF>
+  	<companyNameColIdx>0</companyNameColIdx>
+		<idColIdx>13</idColIdx>
+  </table>
+  
+  
+	<table>
+  	<tableId>08</tableId>
+  	<tableName>t_pachong_branches</tableName>
+  	<dstTableName>LengJingGS</dstTableName>
+  	<database>temp</database>
+  	<delimiter>default</delimiter>
+  	<cols>enterprisename,registrationno,branch_no,branch_registrationno,branch_registrationname,branch_registrationinstitution,lastupdatetime,id,dt</cols>
+  	<CF>Branches</CF>
+  	<companyNameColIdx>0</companyNameColIdx>
+		<idColIdx>7</idColIdx>
+  </table>
+  
+  	
+  <table>
+  	<tableId>14</tableId>
+  	<tableName>t_pachong_business_abnormal</tableName>
+  	<dstTableName>LengJingGS</dstTableName>
+  	<database>temp</database>
+  	<delimiter>default</delimiter>
+  	<cols>enterprisename,registrationno,abnormal_no,abnormal_events,abnormal_datesin,abnormal_moveoutreason,abnormal_datesout,abnormal_decisioninstitution,lastupdatetime,publication_date,id,dt</cols>
+  	<CF>Business_Abnormal</CF>
+  	<companyNameColIdx>0</companyNameColIdx>
+		<idColIdx>10</idColIdx>
+  </table>
+  
+  	
+  <table>
+  	<tableId>05</tableId>
+  	<tableName>t_pachong_changed_announcement</tableName>
+  	<dstTableName>LengJingGS</dstTableName>
+  	<database>temp</database>
+  	<delimiter>default</delimiter>
+  	<cols>enterprisename,registrationno,changedannouncement_events,changedannouncement_before,changedannouncement_after,changedannouncement_date,lastupdatetime,id,dt</cols>
+  	<CF>Changed_Announcement</CF>
+  	<companyNameColIdx>0</companyNameColIdx>
+		<idColIdx>7</idColIdx>
+  </table>
+  
+  
+  <table>
+  	<tableId>11</tableId>
+  	<tableName>t_pachong_chattel_mortgage</tableName>
+  	<dstTableName>LengJingGS</dstTableName>
+  	<database>temp</database>
+  	<delimiter>default</delimiter>
+  	<cols>enterprisename,registrationno,chattelmortgage_no,chattelmortgage_registrationno,chattelmortgage_registrationdate,chattelmortgage_registrationinstitution,chattelmortgage_guaranteedamount,chattelmortgage_status,chattelmortgage_announcedate,chattelmortgage_details,lastupdatetime,id,dt</cols>
+  	<CF>Chattel_Mortgage</CF>
+  	<companyNameColIdx>0</companyNameColIdx>
+		<idColIdx>11</idColIdx>
+  </table>
+  
+
+  <!--table>
+  	<tableId>10</tableId>
+  	<tableName>t_pachong_dic_info</tableName>
+  	<dstTableName>LengJingGS</dstTableName>
+  	<database>temp</database>
+  	<delimiter>default</delimiter>
+  	<cols>enterprisename,registrationno,dic_no,dic_sponsortype,dic_sponsorname,dic_idtype,dic_idno,lastupdatetime,dt</cols>
+  	<CF>DIC_Info</CF>
+  	<companyNameColIdx>0</companyNameColIdx>
+		<idColIdx>-1</idColIdx>
+  </table-->
+  
+ 
+  <table>
+  	<tableId>12</tableId>
+  	<tableName>t_pachong_equity_pledge</tableName>
+  	<dstTableName>LengJingGS</dstTableName>
+  	<database>temp</database>
+  	<delimiter>default</delimiter>
+  	<cols>enterprisename,registrationno,equitypledge_no,equitypledge_registrationno,equitypledge_pledgor,equitypledge_pledgorid,equitypledge_amount,equitypledge_pawnee,equitypledge_pawneeid,equitypledge_registrationdate,equitypledge_status,equitypledge_announcedate,equitypledge_change,lastupdatetime,equitypledge_detail,id,dt</cols>
+  	<CF>Equity_Pledge</CF>
+  	<companyNameColIdx>0</companyNameColIdx>
+		<idColIdx>15</idColIdx>
+  </table>
+  
+
+   <!--table>
+  	<tableId>07</tableId>
+  	<tableName>t_pachong_family_info</tableName>
+  	<dstTableName>LengJingGS</dstTableName>
+  	<database>temp</database>
+  	<delimiter>default</delimiter>
+  	<cols>enterprisename,registrationno,familymember_no,familymember_name,familymember_position,lastupdatetime,id,dt</cols>
+  	<CF>Family_Info</CF>
+  	<companyNameColIdx>0</companyNameColIdx>
+		<idColIdx>6</idColIdx>
+   </table-->
+  
+  
+  <!--table>
+  	<tableId>02</tableId>
+  	<tableName>t_pachong_investor_info</tableName>
+  	<dstTableName>LengJingGS</dstTableName>
+  	<database>temp</database>
+  	<delimiter>default</delimiter>
+  	<cols>enterprisename,registrationno,investor_name,investment_method,lastupdatetime,investor_type,investor_certificationtype,investor_certificationno,ivt_subscripted_capital,ivt_subscripted_method,ivt_subscripted_amount,ivt_subscripted_time,ivt_actualpaid_capital,ivt_actualpaid_method,ivt_actualpaid_amount,ivt_actualpaid_time,investor_details,dt</cols>
+  	<CF>Investor_Info</CF>
+  	<companyNameColIdx>0</companyNameColIdx>
+		<idColIdx>-1</idColIdx>
+  </table-->
+  
+  
+   <table>
+  	<tableId>06</tableId>
+  	<tableName>t_pachong_keyperson_info</tableName>
+  	<dstTableName>LengJingGS</dstTableName>
+  	<database>temp</database>
+  	<delimiter>default</delimiter>
+  	<cols>enterprisename,registrationno,keyperson_no,keyperson_name,keyperson_position,lastupdatetime,id</cols>
+  	<CF>KeyPerson_Info</CF>
+  	<companyNameColIdx>0</companyNameColIdx>
+		<idColIdx>6</idColIdx>
+  </table>
+  
+  
+   <table>
+  	<tableId>09</tableId>
+  	<tableName>t_pachong_liquidation_information</tableName>
+  	<dstTableName>LengJingGS</dstTableName>
+  	<database>temp</database>
+  	<delimiter>default</delimiter>
+  	<cols>enterprisename,registrationno,liquidation_pic,liquidation_member,lastupdatetime,dt</cols>
+  	<CF>liquidation_Information</CF>
+  	<companyNameColIdx>0</companyNameColIdx>
+		<idColIdx>-1</idColIdx>
+  </table>
+  
+  
+   <!--table>
+  	<tableId>03</tableId>
+  	<tableName>t_pachong_partner_info</tableName>
+  	<dstTableName>LengJingGS</dstTableName>
+  	<database>temp</database>
+  	<delimiter>default</delimiter>
+  	<cols>enterprisename,registrationno,partner_type,partner_name,partner_certificationtype,partner_certificationno,lastupdatetime,dt</cols>
+  	<CF>Partner_Info</CF>
+  	<companyNameColIdx>0</companyNameColIdx>
+		<idColIdx>-1</idColIdx>
+   </table-->
+  
+  
+  <!--table>
+  	<tableId>15</tableId>
+  	<tableName>t_pachong_serious_violations</tableName>
+  	<dstTableName>LengJingGS</dstTableName>
+  	<database>temp</database>
+  	<delimiter>default</delimiter>
+  	<cols>enterprisename,registrationno,serious_no,serious_events,serious_datesin,serious_moveoutreason,serious_datesout,serious_decisioninstitution,lastupdatetime,id,dt</cols>
+  	<CF>Serious_Violations</CF>
+  	<companyNameColIdx>0</companyNameColIdx>
+		<idColIdx>9</idColIdx>
+  </table-->
+  
+ 
+   <table>
+  	<tableId>04</tableId>
+  	<tableName>t_pachong_shareholder_info</tableName>
+  	<dstTableName>LengJingGS</dstTableName>
+  	<database>temp</database>
+  	<delimiter>default</delimiter>
+  	<cols>enterprisename,registrationno,shareholder_type,shareholder_name,shareholder_certificationtype,shareholder_certificationno,subscripted_capital,subscripted_method,subscripted_amount,subscripted_time,actualpaid_capital,actualpaid_method,actualpaid_amount,actualpaid_time,lastupdatetime,shareholder_details,detailflag,id,dt</cols>
+  	<CF>Shareholder_Info</CF>
+  	<companyNameColIdx>0</companyNameColIdx>
+		<idColIdx>17</idColIdx>
+  </table>
+  
+  
+  <table>
+  	<tableId>16</tableId>
+  	<tableName>t_pachong_spot_check</tableName>
+  	<dstTableName>LengJingGS</dstTableName>
+  	<database>temp</database>
+  	<delimiter>default</delimiter>
+  	<cols>enterprisename,registrationno,check_no,check_institution,check_type,check_date,check_result,check_remark,lastupdatetime,id,dt</cols>
+  	<CF>Spot_Check</CF>
+  	<companyNameColIdx>0</companyNameColIdx>
+		<idColIdx>9</idColIdx>
+  </table>
+  
+  
+  
+  
+</configuration>
